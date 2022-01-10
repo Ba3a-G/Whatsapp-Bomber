@@ -1,5 +1,3 @@
-<h1 align="center">WHATSAPP BOMBER</h1>
-</br>
-<h4 align="center">A script to send multiple messages to a particular contact/group</h4>
-Use it if you know how to.
-<h3 align="center"><b>Developed with :heart: by <a href="https://twitter.com/ba3a_gamzo">Aryan 'Ba3a' Kumar</a>.</b></h1>
+This code does't work out of the box. The core logic is fine though, you can make it work if you know Python.
+
+I did it that way to prevent kids from misusing it.
